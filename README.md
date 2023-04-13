@@ -9,6 +9,7 @@
 
 _Get started using GitHub in less than an hour._
 
+Thêm khúc số 2 này.
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
